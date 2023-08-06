@@ -1,6 +1,6 @@
 # user-registration
-##Description
-###Provide a brief overview of the project, including its purpose, main features, and any specific goals you have in mind.
+## Description
+### Provide a brief overview of the project, including its purpose, main features, and any specific goals you have in mind.
 
 ##Technologies Used
 ###Spring Boot
