@@ -1,12 +1,12 @@
 # user-registration
 ## Description
-### Provide a brief overview of the project, including its purpose, main features, and any specific goals you have in mind.
+### This Project Only For compliting a Task
 
 ## Technologies Used
 ### Spring Boot
 ### Spring Data JPA
 ### MySQL
-### Other technologies used in the project (if any)
+
 ## Installation and Setup
 ### Java JDK (version 8 or higher)
 ### MySQL 
