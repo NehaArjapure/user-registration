@@ -2,7 +2,7 @@
 ## Description
 ### This Project Only For compliting a Task
 
-## Technologies Used
+## Technologies Used 
 ### Spring Boot
 ### Spring Data JPA
 ### MySQL
