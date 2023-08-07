@@ -18,7 +18,6 @@
 ### Running the Application
 ### Use the following command to run the application:
 
-### arduino
 ### Copy code
 ### mvn spring-boot:run
 ### The application will start, and you can access it at http://localhost:8080.
@@ -30,7 +29,7 @@
 ## Request
 
 ### json
-### Copy code
+### 
 ### {
   "username": "example_user",
   "email": "user@example.com",
@@ -42,7 +41,7 @@
 ### Success Response
 
 ### json
-### Copy code
+###
 ### {
   "status": "success",
   "message": "User successfully registered!",
@@ -58,7 +57,7 @@
 ### Error Response
 
 ### json
-### Copy code
+### 
 ### {
   "status": "error",
   "code": "INVALID_REQUEST",
@@ -70,7 +69,7 @@
 ### Request
 
 ### json
-### Copy code
+### 
 ### {
   "username": "example_user",
   "password": "secure_password123"
@@ -78,7 +77,7 @@
 ### Response
 
 ### json
-### Copy code
+###
 ### {
   "status": "success",
   "message": "Access token generated successfully.",
@@ -94,7 +93,7 @@
 
 ### Authorization: Bearer access_token
 ### json
-### Copy code
+###
 ### {
   "key": "unique_key",
   "value": "data_value"
@@ -102,7 +101,7 @@
 ### Response
 
 ### json
-### Copy code
+###
 ### {
   "status": "success",
   "message": "Data stored successfully."
@@ -116,7 +115,7 @@
 ### Response
 
 ### json
-### Copy code
+### 
 ### {
   "status": "success",
   "data": {
@@ -133,14 +132,14 @@
 ### Request
 
 ### json
-### Copy code
+### 
 ### {
   "value": "new_data_value"
 }
 ### Response
 
 ### json
-### Copy code
+###
 ### {
   "status": "success",
   "message": "Data updated successfully."
@@ -154,7 +153,7 @@
 ### Response
 
 ### json
-### Copy code
+###
 ### {
   "status": "success",
   "message": "Data deleted successfully."
